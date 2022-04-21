@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17505d67-4589-4380-a1d5-b88abe834b31" name="Changes" comment="算法的开始">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lql/algorithm/sort/test/BubbleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lql/algorithm/sort/test/BubbleTest.java" afterDir="false" />
+    <list default="true" id="17505d67-4589-4380-a1d5-b88abe834b31" name="Changes" comment="学会了冒泡 选择 和 插入排序">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +29,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -116,7 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650542225243</updated>
       <workItem from="1650542227044" duration="2953000" />
-      <workItem from="1650546416954" duration="38000" />
+      <workItem from="1650546416954" duration="396000" />
     </task>
     <task id="LOCAL-00001" summary="算法的开始">
       <created>1650545828471</created>
@@ -125,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650545828471</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="学会了冒泡 选择 和 插入排序">
+      <created>1650546488656</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650546488656</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +152,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="算法的开始" />
-    <option name="LAST_COMMIT_MESSAGE" value="算法的开始" />
+    <MESSAGE value="学会了冒泡 选择 和 插入排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="学会了冒泡 选择 和 插入排序" />
   </component>
 </project>
